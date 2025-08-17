@@ -111,7 +111,7 @@ To run this portfolio locally:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License]([LICENSE](https://github.com/KARRTHIKKKK/Portfolio/blob/main/LICENSE)).
+This project is open source and available under the [MIT LICENSE.](https://github.com/KARRTHIKKKK/Portfolio/blob/main/LICENSE)
 
 ---
 
